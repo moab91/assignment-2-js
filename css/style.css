@@ -1,0 +1,32 @@
+.Quotes{
+    text-align: center;
+    background-image:url(../29134f62ecd1a9217fd10148beb01cba.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+body{
+    background-color:steelblue;
+}
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: darkblue;
+    color: white;
+}
+
+p{
+    font-size: 35px;
+    color: bisque;
+}
+
+button:hover{
+    background-color:cornflowerblue;
+    color: black;
+}
